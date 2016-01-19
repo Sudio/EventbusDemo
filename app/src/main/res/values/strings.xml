@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventbusDemo</string>
+    <string name="btn_click">Click</string>
+</resources>
